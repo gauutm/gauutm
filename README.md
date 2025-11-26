@@ -5,6 +5,8 @@
 </p>
 
 <h2 align="left">About me</h2> 
-`Aspiring Data Science and Generative AI Explorer`
+Aspiring Data Science and Generative AI Explorer
+Aspiring Data Science and Generative AI Explorer
+Aspiring Data Science and Generative AI Explorer
 
 <h2 align="left">Skill stack</h2>
