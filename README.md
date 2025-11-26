@@ -5,7 +5,8 @@
 </p>
 
 <h2 align="left">About me</h2> 
-`Aspiring Data science and Generative AI explorer`
+`Aspiring Data Science and Generative AI Explorer`
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
