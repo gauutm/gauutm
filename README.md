@@ -1,4 +1,7 @@
-<h2 style="color: white;">hello! my fellow</h2> <h2 style="color: #00ff00;">&lt;!coders&gt;</h2>
+<h2 align="center">
+  <span style="color: white;">hello! my fellow</span>
+  <span style="color: #00ff00;">&lt;!coders&gt;</span>
+</h2>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
