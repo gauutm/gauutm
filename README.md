@@ -1,5 +1,5 @@
 <h2 align="center">Hello! my fellow &lt;!coders&gt;</h2> 
-<img src="assets/TOPGIF.gif">
+<img src="Assets/TOPGIF.gif">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
