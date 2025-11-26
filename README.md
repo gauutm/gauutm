@@ -1,7 +1,7 @@
 <h2 align="center">Hello! my fellow &lt;!coders&gt;</h2> 
 
-<p align="center"  width="100">
-<img src="Assets/TOPGIF.gif">
+<p align="center">
+<img src="Assets/TOPGIF.gif"  width="300">
 </p>
 
 - 🔭 I’m currently working on ...
